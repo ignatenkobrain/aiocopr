@@ -1,0 +1,4 @@
+/build/
+/aiocopt.egg-info/
+/dist/
+__pycache__/
